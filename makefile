@@ -6,6 +6,7 @@ README.md:
 	echo "\'Make\' was ran at" >> README.md
 	date >> README.md
 
+	echo "## The Line of code " >> README.md
 	echo -n "Number of lines in the code: " >>README.md
 	
 	
